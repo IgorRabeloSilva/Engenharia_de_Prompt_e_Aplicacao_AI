@@ -58,6 +58,9 @@ João - Refinou
 Guilherme - organizou o readme e a publicação do site
 
 ---
+## Link do Prototipo criado
+
+https://8000-ijt1b4czt31mxip6nhodm-ffe65013.us1.manus.computer/
 
 ## 📝 Registro da Aula
 
